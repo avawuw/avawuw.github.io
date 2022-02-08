@@ -1,5 +1,5 @@
-function draw() {
-  var ctx = document.getElementById('canvas').getContext('2d');
+function draw(){
+  var ctx = document.getElementById('tutorial ').getContext('2d');
   var lineJoin = ['round', 'bevel', 'miter'];
   ctx.lineWidth = 10;
   for (var i = 0; i < lineJoin.length; i++) {
