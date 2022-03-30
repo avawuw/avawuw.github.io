@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 @font-face {
   font-family: MaNaMinA;
-  src: url("ttf/HanaMinA.ttf") format('truetype'); /* Safari, Android, iOS */
+  src: url("/ttf/HanaMinA.ttf") format('truetype'); /* Safari, Android, iOS */
 }
 ul {
   list-style-type: none;
